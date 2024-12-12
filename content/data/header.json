@@ -13,7 +13,7 @@
     },
     "primaryLinks": [
         {
-            "label": "ABOUT ME",
+            "label": "About Me",
             "url": "/aboutme",
             "icon": "arrowRight",
             "iconPosition": "right",
