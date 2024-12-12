@@ -41,7 +41,18 @@
         {
             "label": "Contact",
             "altText": "Contact",
-            "links": [],
+            "links": [
+                {
+                    "type": "Link",
+                    "altText": "",
+                    "url": "/https://www.instagram.com/hadi.modi.67?igsh=dng3dzNtYnJ2OGY=",
+                    "showIcon": true,
+                    "icon": "instagram",
+                    "iconPosition": "right",
+                    "style": "secondary",
+                    "elementId": ""
+                }
+            ],
             "labelStyle": "secondary",
             "type": "SubNav"
         }
