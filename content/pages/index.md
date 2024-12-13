@@ -237,12 +237,6 @@ sections:
     subtitle: ''
     text: ''
     actions:
-      - label: ''
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        type: Button
       - label: See Tutorials
         url: /
         showIcon: true
