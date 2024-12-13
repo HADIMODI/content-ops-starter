@@ -92,10 +92,10 @@ sections:
               borderRadius: x-large
       - title: roblox developing
         subtitle: The Job Stuff
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          i develope roblox games classic shirts and pants for you and if you
+          want to make changes so you can update game your self also and for
+          that contact me 
         image:
           url: /images/icon2.svg
           altText: Featured icon two
