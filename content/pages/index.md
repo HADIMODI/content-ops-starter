@@ -155,7 +155,7 @@ sections:
     images:
       - altText: Wellster logo
         type: ImageBlock
-      - url: /images/vise-logo.svg
+      - url: /images/Untitled design (10).png
         altText: Vise logo
         type: ImageBlock
       - altText: Telus logo
