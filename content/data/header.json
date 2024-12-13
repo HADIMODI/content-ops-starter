@@ -43,17 +43,6 @@
             "links": [
                 {
                     "type": "Link",
-                    "altText": "",
-                    "url": "https://www.instagram.com/hadi.modi.67",
-                    "showIcon": true,
-                    "icon": "instagram",
-                    "iconPosition": "right",
-                    "style": "secondary",
-                    "elementId": "",
-                    "label": "Instagram"
-                },
-                {
-                    "type": "Link",
                     "label": "Facebook",
                     "altText": "Facebook",
                     "url": "/https://www.facebook.com/hadi.modi.67",
