@@ -59,7 +59,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: MY SEVISES
+    subtitle: MY SERVICES
     items:
       - type: FeaturedItem
         title: 500k
