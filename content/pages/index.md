@@ -65,7 +65,7 @@ sections:
         title: web developing
         subtitle: Numbers Done
         text: >
-          if you want to develope a website you can contact me and i will give
+          if you want to develop a website you can contact me and i will give
           you free domain also and when you want to change then you can change
           your domain also n website will be that only
         actions: []
