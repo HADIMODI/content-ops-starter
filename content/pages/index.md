@@ -247,7 +247,7 @@ sections:
         alignItems: center
     type: GenericSection
   - title:
-      text: Business Consulting
+      text: FOR MAKING
       color: text-dark
       type: TitleBlock
     subtitle: ''
