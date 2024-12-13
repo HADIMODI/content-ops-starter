@@ -247,7 +247,7 @@ sections:
         alignItems: center
     type: GenericSection
   - title:
-      text: FOR MAKING
+      text: FOR MAKING GAMES CONTACT
       color: text-dark
       type: TitleBlock
     subtitle: ''
