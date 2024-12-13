@@ -1,5 +1,5 @@
 ---
-title: Home
+title: HADI MODI
 slug: /
 sections:
   - type: GenericSection
