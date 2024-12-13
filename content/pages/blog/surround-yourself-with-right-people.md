@@ -1,5 +1,5 @@
 ---
-title: ''
+title: 'How I Came In All This Works '
 slug: surround-yourself-with-right-people
 date: '2024-12-13'
 excerpt: ''
