@@ -16,7 +16,6 @@ seo:
   type: Seo
 colors: bg-light-fg-dark
 type: PostLayout
-author: content/data/person2.json
 styles:
   self:
     flexDirection: col
