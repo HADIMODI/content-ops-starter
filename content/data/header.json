@@ -29,15 +29,6 @@
             "type": "Link"
         },
         {
-            "label": "courses",
-            "altText": "Careers page",
-            "url": "/courses",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
-        },
-        {
             "label": "Contact",
             "altText": "Contact",
             "links": [
