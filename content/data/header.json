@@ -51,6 +51,17 @@
                     "style": "secondary",
                     "elementId": "",
                     "label": "Instagram"
+                },
+                {
+                    "type": "Link",
+                    "label": "Facebook",
+                    "altText": "Facebook",
+                    "url": "/https://www.facebook.com/hadi.modi.67",
+                    "showIcon": true,
+                    "icon": "facebook",
+                    "iconPosition": "left",
+                    "style": "secondary",
+                    "elementId": ""
                 }
             ],
             "labelStyle": "secondary",
