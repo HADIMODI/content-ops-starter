@@ -256,10 +256,6 @@ sections:
       url: /images/roblox pic.png
       altText: Fun feature preview
       type: ImageBlock
-    badge:
-      label: This is a badge
-      color: text-primary
-      type: Badge
     colors: bg-light-fg-dark
     styles:
       self:
