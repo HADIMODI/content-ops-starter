@@ -117,10 +117,9 @@ sections:
         type: FeaturedItem
       - title: 3d shirts
         subtitle: Faster
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          in roblox i make 3d pants shirts jackets etc i make for customers and
+          then upload on their roblox plateform and you can earn from that also 
         image:
           url: /images/favicon.svg
           altText: Featured icon three
