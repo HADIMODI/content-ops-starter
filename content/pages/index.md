@@ -93,9 +93,9 @@ sections:
       - title: roblox developing
         subtitle: The Job Stuff
         text: >
-          i develope roblox games classic shirts and pants for you and if you
+          i develop roblox games classic shirts and pants for you and if you
           want to make changes so you can update game your self also and for
-          that contact me 
+          that contact me
         image:
           url: /images/icon2.svg
           altText: Featured icon two
