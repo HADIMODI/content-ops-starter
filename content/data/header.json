@@ -51,6 +51,17 @@
                     "iconPosition": "left",
                     "style": "secondary",
                     "elementId": ""
+                },
+                {
+                    "type": "Link",
+                    "label": "Instagram",
+                    "altText": "Instagram",
+                    "url": "/https://www.instagram.com/hadi.modi.67",
+                    "showIcon": true,
+                    "icon": "instagram",
+                    "iconPosition": "left",
+                    "style": "secondary",
+                    "elementId": ""
                 }
             ],
             "labelStyle": "secondary",
