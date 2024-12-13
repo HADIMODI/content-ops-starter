@@ -64,10 +64,10 @@ sections:
       - type: FeaturedItem
         title: web developing
         subtitle: Numbers Done
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          if you want to develope a website you can contact me and i will give
+          you free domain also and when you want to change then you can change
+          your domain also n website will be that only
         actions: []
         elementId: null
         colors: bg-light-fg-dark
