@@ -234,7 +234,7 @@ sections:
       text: LETS MAKE GAMES TOGATHER
       color: text-dark
       type: TitleBlock
-    subtitle: Increase your reach
+    subtitle: ''
     text: ''
     actions:
       - label: Get started
