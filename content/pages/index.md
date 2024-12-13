@@ -236,14 +236,7 @@ sections:
       type: TitleBlock
     subtitle: ''
     text: ''
-    actions:
-      - label: See Tutorials
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        type: Link
+    actions: []
     media:
       url: /images/roblox pic.png
       altText: Fun feature preview
