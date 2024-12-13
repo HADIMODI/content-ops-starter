@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: 'I DO ROBLOX DEVELOPING N DOMAINS WORK N WEB DEVELOPING '
+      text: ''
       color: text-dark
       type: TitleBlock
     subtitle: ''
