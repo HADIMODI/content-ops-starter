@@ -253,7 +253,7 @@ sections:
         style: primary
         type: Link
     media:
-      url: /images/hero2.svg
+      url: /images/roblox pic.png
       altText: Fun feature preview
       type: ImageBlock
     badge:
