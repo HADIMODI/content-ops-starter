@@ -1,5 +1,5 @@
 ---
-title: How I Came In This All Business
+title: 'Hadi Modi: From Gamer to Developer Extraordinaire'
 slug: top-ten-lessons-we-learned
 date: '2024-12-14'
 excerpt: All In This blog
