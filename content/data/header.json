@@ -53,17 +53,6 @@
                     "iconPosition": "left",
                     "style": "secondary",
                     "elementId": ""
-                },
-                {
-                    "type": "Link",
-                    "label": "Send email",
-                    "altText": "Play",
-                    "url": "/me@hadimodi.com",
-                    "showIcon": true,
-                    "icon": "mail",
-                    "iconPosition": "right",
-                    "style": "secondary",
-                    "elementId": ""
                 }
             ],
             "labelStyle": "secondary",
