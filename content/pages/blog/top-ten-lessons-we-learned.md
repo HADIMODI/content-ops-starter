@@ -2,10 +2,7 @@
 title: How I Came In This All Business
 slug: top-ten-lessons-we-learned
 date: '2024-12-14'
-excerpt: >-
-  Sit ratione eligendi et quis distinctio et maiores accusantium aut accusamus
-  facere sit repellat quidem qui alias nostrum et earum enim. Cum quis sint eos
-  dolor quas ad odit ipsum qui quia eius.
+excerpt: All In This blog
 featuredImage:
   url: /images/e.jpg
   altText: Thumbnail
